@@ -14,6 +14,7 @@
 Также можно включить файлы tfplan для игнорирования вывода плана команды: terraform plan -out = tfplan
 Пример: * tfplan *
 
+
 Игнорируются все файлы конфигурации CLI .terraformrc terraform.rc
 
 
